@@ -7,13 +7,14 @@ With a unique blend of analytical expertise 📊 and people skills 🤝, Sayan b
 ## Skills 🎯
 
 ### Hard Skills 💻
+- AI Prompting 🤖
+- Googling 🔍
 - MS Excel 📈
 - SQL 🗄️
 - Power BI 📊
 - Python 🐍
 - MS Office 🏢
-- AI Prompting 🤖
-- Googling 🔍
+
 
 ### Soft Skills 🤹
 - Strong communication 🗣️
