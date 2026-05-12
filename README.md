@@ -17,10 +17,9 @@ Technically proficient in Excel, SQL (HackerRank Gold) 🏆, Power BI 📊, Alte
 
 ### Soft Skills 🤹
 - Strong communication 🗣️
-- People skills 🤝
+- People skills / Stakeholder Management 🤝
 - Critical thinking 🤔
 - Perseverance and a "can-do" attitude 💪
 - Quick learning ⚡
 - Adaptability and resilience 🔄
-
 
