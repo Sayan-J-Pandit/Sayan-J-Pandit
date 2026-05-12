@@ -1,8 +1,7 @@
 # Hi There 👋
+"Strategic Business Analyst with 8 years of experience ⏳ spearheading process re-engineering, workflow optimization ⚙️, and technical integration 💻 across the Utilities, Insurance, and Public Compliance domains 🏛️. Adept at systemic thinking 🧠 and root-cause analysis 🔍 to transform complex operational bottlenecks 🚧 into scalable solutions 🚀—including driving a 95% reduction in turnaround times ⏱️ and boosting regional customer retention by 25% 🤝.
 
-Sayan Pandit is a highly dedicated professional with great communication skills 🗣️ and strong perseverance in problem-solving 💡. Passionate about understanding the evolution of different components of society and world affairs 🌍, he has gained extensive experience in managing diverse customer interactions, large-scale operations (both remote and onsite) 🏢💻 and delivering effective solutions.
-
-With a unique blend of analytical expertise 📊 and people skills 🤝, Sayan brings dedication, perseverance and adaptability to any organization, making him a valuable asset.✨
+Technically proficient in Excel, SQL (HackerRank Gold) 🏆, Power BI 📊, Alteryx, and Python 🐍, leveraging advanced data modeling and AI prompting 🤖 to bridge the gap between business needs and IT execution 🌉. Proven track record of aligning cross-functional onshore/offshore stakeholders 🌎 and delivering user-centric, high-CSAT service designs from the ground up." ✨
 
 ## Skills 🎯
 
